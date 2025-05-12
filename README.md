@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Programming-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Instructor-%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%95%AB-green?style=flat-square" />
 </p>
 
 ---

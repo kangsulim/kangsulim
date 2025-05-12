@@ -28,7 +28,7 @@
 ---
 
 ### 📬 Contact  
-📧 skjil1218@gmail.com  
+📧 rkdtnfla1@naver.com  
 > This is an email address that you can contact. 🙂
 
 ---

@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm a Back-end Programmer 🧑🏻‍🏫</h1>
 
-<p align="center">
-  ![Backend](https://img.shields.io/badge/Backend-Programming-blue?style=flat-square)
-</p>
-
 ---
 
 ### 🛠 Tech Stack 🛠  

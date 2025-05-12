@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm a Back-end Programming Instructor 🧑🏻‍🏫</h1>
 
-<!--
-**kangsulim/kangsulim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Programming-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Instructor-%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%95%AB-green?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack 🛠  
+> These are the technologies I can use.
+
+#### 📌 Language  
+- Flutter
+
+#### 💻 Web Front-End  
+- (기술을 여기에 채워주세요)
+
+#### 🔧 Web Back-End  
+- (기술을 여기에 채워주세요)
+
+#### 🗃️ DataBase  
+- (기술을 여기에 채워주세요)
+
+#### ⚙️ etc  
+- (기술을 여기에 채워주세요)
+
+---
+
+### 📬 Contact  
+📧 skjil1218@gmail.com  
+> This is an email address that you can contact. 🙂
+
+---

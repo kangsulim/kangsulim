@@ -60,11 +60,11 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kangsulim&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 #### 👥 GitHub Contributions
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&bg_color=ffffff&color=0366d6&line=4c8bf5&point=24292f&area=true&area_color=0066ff&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kangsulim&bg_color=ffffff&color=0366d6&line=4c8bf5&point=24292f&area=true&area_color=0066ff&hide_border=true)
 
 ---
 

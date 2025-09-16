@@ -16,7 +16,6 @@
 #### 💻 Development Environment
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
 </p>
 
@@ -51,9 +50,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 </p>
 
 ---
